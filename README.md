@@ -1,2 +1,2 @@
 # API using MongoDB
-RESTful API that performs CRUD operations using MongoDB as a database.
+RESTful API using Spring boot that performs CRUD operations using MongoDB as a database.
